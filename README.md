@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nephastophilles
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python & Dart
-- 💞️ I’m looking to collaborate on Software Development
+- 🌱 I’m currently learning Python & Data Science
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me...here.
 
 <!---
